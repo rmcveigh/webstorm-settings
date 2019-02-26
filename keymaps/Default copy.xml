@@ -1,0 +1,7 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="CollapseAllRegions" />
+  <action id="ExpandAllRegions" />
+  <action id="Graph.ActualZoom">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+</keymap>
